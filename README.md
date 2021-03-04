@@ -18,8 +18,8 @@ as well as be able to run the script faster (refactored code ran five seconds fa
 not only for yourself but for others as well should the coding is needed for future reference.   A disadvantage that could occurr is if the data is too large where an application would not be able to properly handle
 or if the original code is undecipherable to be able to refactor.   Some times having to much can cause confusion as to what is actually being done.
 
-![2017 Screenshot](C:\Users\borit\UCF\Module2\stock-analysis\Resources\VBA_Challenge_2017.PNG)
-![2018 Screenshot](C:\Users\borit\UCF\Module2\stock-analysis\Resources\VBA_Challenge_2018.PNG)
+![2017 Screenshot](https://github.com/VRivera13/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![2018 Screenshot](https://github.com/VRivera13/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
 
